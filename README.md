@@ -43,8 +43,7 @@
 <code><img height="31" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></code>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=meetsoni15&show_icons=true&theme=bear" width = 400>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetsoni15&show_icons=true&locale=en&theme=bear" alt="meetsoni15" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=meetsoni15&show_icons=true&theme=bear">
 </p>
 
 
