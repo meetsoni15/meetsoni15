@@ -11,10 +11,6 @@
 
 - 💬 Ask me about anything [here](https://github.com/meetsoni15/meetsoni15/issues)
 
-**Connect with me:**
-
-[![Follow on Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetsoni1511) [![Follow on Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9101858) [![Follow on Stack Overflow](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://stackoverflow.com/users/9101858)  
-
 **Languages and Tools:**
 
 *Language*
