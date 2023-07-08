@@ -40,9 +40,6 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=meetsoni15&label=Profile%20views&color=0e75b6&style=flat" alt="meetsoni15" /> </p>
-
-
 <!--
 **meetsoni15/meetsoni15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
