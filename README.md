@@ -37,9 +37,7 @@
 <code><img height="31" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></code>
 <code><img height="31" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></code>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=meetsoni15&show_icons=true&theme=bear">
-</p>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meetsoni15&label=Profile%20views&color=0e75b6&style=flat" alt="meetsoni15" /> </p>
