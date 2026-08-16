@@ -1,55 +1,79 @@
 <h1 align="center">Meet Soni</h1>
 
 <p align="center">
-  <b>Engineering Manager @ Zigram</b><br>
+  <b>Backend &amp; Platform Engineer</b><br>
   Go · Kubernetes · Distributed Systems
 </p>
 
 <p align="center">
   <a href="https://meetsoni.me"><img src="https://img.shields.io/badge/Portfolio-meetsoni.me-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/meetsoni1511"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://meetsoni.me/blog"><img src="https://img.shields.io/badge/Blog-Writing-8B5CF6?style=flat-square&logo=readdotcv&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/meetsoni1511"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.credly.com/badges/8f8bd291-ef49-442d-9438-1a6b989b2fac"><img src="https://img.shields.io/badge/CKA-Certified%20(91%25)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"></a>
   <a href="mailto:meet@meetsoni.me"><img src="https://img.shields.io/badge/Email-meet@meetsoni.me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### About
+### Hi, I'm Meet 👋
 
-Backend and platform engineer turned engineering manager, with 8+ years building systems that
-have to stay up. I spend my time on Go services, Kubernetes infrastructure, and the kind of
-data pipelines that fall over quietly at 3am if you get the retry semantics wrong.
+I build backend systems that have to stay up. Eight years in, most of my time goes to Go
+services, Kubernetes infrastructure, and data pipelines — the kind that fail quietly at 3am
+if you get the retry semantics wrong.
 
-- 🔭 Leading engineering execution and architecture across enterprise products at **Zigram**
-- ⚙️ Working daily with **Go, Kubernetes, PostgreSQL, gRPC, and AWS**
-- ☸️ **Certified Kubernetes Administrator (CKA)** — scored 91%
-- ✍️ I write about Go internals, concurrency patterns, and developer tooling
-- 🧪 Weekends go to terminal tools and small Go experiments
+I care about the unglamorous parts: clear boundaries between services, migrations that roll
+back cleanly, tracing you can actually follow across a request, and code the next person can
+change without fear. These days I split my time between writing systems and leading the
+engineers who write them.
 
-### Things I've built at work
+- ⚙️ Daily drivers: **Go, Kubernetes, PostgreSQL, gRPC, AWS**
+- ☸️ **Certified Kubernetes Administrator** — scored 91%
+- 🛠️ I build terminal tools for problems that annoy me
+- ✍️ I write about Go internals, concurrency, and developer tooling
+- 📍 India · open to interesting conversations
 
-- **Migrated 75 microservices from Python to Go** into a single monorepo, orchestrated
-  through one TOML file — cutting operational overhead and improving throughput.
-- **Architected SATOC**, an enterprise search platform querying hundreds of millions of
-  records: dynamic PostgreSQL functions that support new query shapes without redeploys,
-  Milvus vector search with scalable metadata handling, and caching for high-throughput APIs.
-- **Designed a queue-driven file processing platform** to replace synchronous execution —
-  concurrency control, a retry framework, fault-tolerant background workers, and real
-  operational monitoring.
-- **Rolled out organization-wide distributed tracing**, integrated across every service with
-  Jaeger fronted by NGINX auth.
-- **Built regulatory data integrations** (MNRL, FRI) with secure ingestion APIs, validation
-  and transformation pipelines, and retry mechanisms.
+### What I can do
 
-### Open source
+**Backend & distributed systems**
+
+Design and ship Go services that hold up under load. I've consolidated **75 microservices from
+Python into a single Go monorepo** driven by one config file, and replaced synchronous
+execution with **queue-driven processing platforms** — concurrency control, retry frameworks,
+fault-tolerant background workers, and monitoring that tells you when it's degrading rather
+than after it's down. Contract-first REST APIs, gRPC services, clean architecture that
+survives a rewrite.
+
+**Search & data at scale**
+
+Architected enterprise search over **hundreds of millions of records**: dynamic PostgreSQL
+functions that support new query shapes without redeploying, vector search with scalable
+metadata handling, and caching layers for high-throughput APIs. Comfortable with load testing
+as an engineering practice — finding the database bottleneck, cutting the memory footprint,
+proving the improvement.
+
+**Cloud native & operations**
+
+Kubernetes from cluster administration through to Helm charts and Terraform. Org-wide
+**distributed tracing** with Jaeger behind NGINX auth, Prometheus and Grafana dashboards, alert
+automation, CI/CD pipelines, automated schema migrations, and backup and deployment tooling.
+Linux administration going back to my first job.
+
+**Leading engineering**
+
+Lead teams of ~6 engineers: sprint planning, architecture decisions across multiple products,
+production releases. Mentoring backend engineers, technical interviewing, and running incident
+investigation and root-cause analysis when something breaks.
+
+### Things I've built
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**gitcinema**](https://github.com/meetsoni15/gitcinema) | Watch your git history like a movie — step through every commit with live file changes, author characters, and a timeline scrubber | Go, Bubble Tea |
 | [**noisemap**](https://github.com/meetsoni15/noisemap) | Codebase complexity heatmap for your terminal — ranks risk by combining cyclomatic complexity with git churn | Go, AST, Bubble Tea |
-| [**Vault-API-Filecoin**](https://github.com/meetsoni15/Vault-API-Filecoin) | HTTP API serving unlockable content from the Varda Vault immutable DB | Go, Filecoin |
+| [**Vault-API-Filecoin**](https://github.com/meetsoni15/Vault-API-Filecoin) | HTTP API serving unlockable content from an immutable Filecoin-backed store | Go, Filecoin |
 | [**go-lambda-scraper**](https://github.com/meetsoni15/go-lambda-scraper) | Rotating-IP scraping infrastructure built on multi-region AWS Lambda | Go, Terraform, AWS |
+| [**go-grpc-microservices**](https://github.com/meetsoni15/go-grpc-microservices) | gRPC microservice patterns in Go | Go, gRPC |
+| [**Dodge-the-Falling-Blocks**](https://github.com/meetsoni15/Dodge-the-Falling-Blocks) | Arcade game built with Raylib — because not everything needs a business case | Go, Raylib |
 
 ### Tech
 
@@ -61,7 +85,7 @@ data pipelines that fall over quietly at 3am if you get the retry semantics wron
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Cloud Native & Infrastructure**
+**Cloud native & infrastructure**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -106,6 +130,6 @@ data pipelines that fall over quietly at 3am if you get the retry semantics wron
 ---
 
 <p align="center">
-  Open to conversations about Go, Kubernetes, and platform architecture —
+  Happy to talk Go, Kubernetes, or platform architecture —
   <a href="mailto:meet@meetsoni.me">say hello</a>.
 </p>
