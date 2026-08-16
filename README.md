@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Meet Soni — Backend &amp; Platform Engineer" width="100%">
+<img src="assets/header.svg" alt="Meet Soni — Backend, Cloud &amp; IoT Engineer" width="100%">
 
 <p align="center">
   <a href="https://meetsoni.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
@@ -10,14 +10,21 @@
 
 <br>
 
-I write Go — mostly backend services and the infrastructure they run on, plus the occasional
-terminal tool for a problem I got tired of having. Certified Kubernetes Administrator. These
-days I lead a small team, which means I write less code and think harder about the code that
-gets written.
+I write Go, run it on Kubernetes, and build the React front ends that sit on top. I've shipped
+IoT systems that stream live video out of emergency callboxes, search platforms that query
+hundreds of millions of records, and terminal tools for problems that annoyed me enough to fix.
+Certified Kubernetes Administrator. These days I lead a small team, which means I write less
+code and think harder about the code that gets written.
 
 <br>
 
-<img src="assets/journey.svg" alt="Timeline: 2017 first job in support engineering, 2018 in-house ERP, 2019 product work, 2022 all-in on Go, 2024 technical lead, 2026 leading a team and CKA certified" width="100%">
+## What I can build
+
+<img src="assets/architecture.svg" alt="Systems I build end to end: devices and edge with IoT callboxes and MQTT, ingest with API Gateway and Lambda, processing with Go services and queues, data with PostgreSQL and vector search, interface with React and Next.js — all on Kubernetes" width="100%">
+
+Most engineers own one column of that diagram. I've shipped all five — the callbox on the wall,
+the Lambda that catches its telemetry, the Go worker that processes it, the database it lands
+in, and the dashboard someone actually looks at.
 
 <br>
 
@@ -71,21 +78,23 @@ projects three months late.
 
 <br>
 
+<img src="assets/stack.svg" alt="What I work with — backend and cloud: Go, Kubernetes, Docker, Helm, Terraform, AWS, Linux, Nginx; data and observability: PostgreSQL, MongoDB, Redis, MySQL, Prometheus, Grafana, Python, Bash; frontend: React, Next.js, TypeScript, Tailwind, Sass, JavaScript, HTML5, Vite" width="100%">
+
+<br>
+
+## Shipped in production
+
+- **An emergency callbox network.** IoT devices talking to AWS serverless — ingestion, routing, and notifications out to authorities when someone presses the button.
+- **A personal-security app** with live video streaming, recording, and real-time monitoring on AWS.
+- **75 Python microservices consolidated into one Go monorepo**, driven by a single config file.
+- **Search across hundreds of millions of records** — PostgreSQL functions that take new query shapes without a redeploy, plus vector search with scalable metadata.
+- **Queue-driven pipelines** that replaced synchronous execution: concurrency control, retries that back off, and workers that say when they're degrading instead of after they're down.
+- **Tracing across every service in the org**, so debugging stopped being archaeology.
+- **The front ends too** — React dashboards for the people who have to operate all of the above, and [meetsoni.me](https://meetsoni.me), built with React and Vite.
+
+<br>
+
 <img src="assets/opensource.svg" alt="Open source: 18 public repositories, 222 commits, first push 2017, 81.8% Go" width="100%">
-
-<br>
-
-## Work I'm proud of
-
-Consolidating **75 Python microservices into one Go monorepo** driven by a single config file.
-Building **search across hundreds of millions of records**, with PostgreSQL functions that take
-new query shapes without a redeploy. Replacing synchronous job execution with **queue-driven
-pipelines** that retry properly and say when they're degrading — instead of after they're down.
-Getting **tracing rolled out across every service**, so debugging stopped being archaeology.
-
-<br>
-
-<img src="assets/stack.svg" alt="What I work with: Go, Kubernetes, Docker, Helm, Terraform, AWS, Linux, Nginx, PostgreSQL, MongoDB, Redis, MySQL, Prometheus, Grafana, Python, JavaScript" width="100%">
 
 <br>
 
@@ -99,8 +108,12 @@ Getting **tracing rolled out across every service**, so debugging stopped being 
 
 <br>
 
+<img src="assets/journey.svg" alt="Timeline: 2017 first job in support engineering, 2018 in-house ERP, 2019 product work, 2022 all-in on Go, 2024 technical lead, 2026 leading a team and CKA certified" width="100%">
+
+<br>
+
 ---
 
 <p align="center">
-  <sub>Always up for a conversation about Go, Kubernetes, or platform architecture — <a href="mailto:meet@meetsoni.me">meet@meetsoni.me</a></sub>
+  <sub>Always up for a conversation about Go, Kubernetes, IoT, or platform architecture — <a href="mailto:meet@meetsoni.me">meet@meetsoni.me</a></sub>
 </p>
