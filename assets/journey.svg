@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="232" viewBox="0 0 1000 232" role="img" aria-label="Career timeline from 2017 to 2026">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0F172A"/><stop offset="100%" stop-color="#1E293B"/></linearGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/><stop offset="100%" stop-color="#38BDF8" stop-opacity="0.9"/></linearGradient>
+  </defs>
+  <rect width="1000" height="232" rx="16" fill="url(#bg4)"/>
+  <text x="48" y="46" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#F8FAFC">How I got here</text>
+  <text x="48" y="66" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#64748B">support engineer to engineering lead, one system at a time</text>
+  <line x1="126.0" y1="132" x2="874.0" y2="132" stroke="#334155" stroke-width="2"/>
+  <line x1="126.0" y1="132" x2="874.0" y2="132" stroke="url(#ln)" stroke-width="2"/>
+  <text x="126" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#CBD5E1" text-anchor="middle">2017</text>
+  <circle cx="126" cy="132" r="6" fill="#64748B" stroke="#0F172A" stroke-width="3"/>
+  <text x="126" y="162" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">First job. Perl, PHP,</text>
+  <text x="126" y="178" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">and a lot of servers.</text>
+  <text x="276" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#CBD5E1" text-anchor="middle">2018</text>
+  <circle cx="276" cy="132" r="6" fill="#64748B" stroke="#0F172A" stroke-width="3"/>
+  <text x="276" y="162" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Led in-house ERP</text>
+  <text x="276" y="178" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">and inventory systems.</text>
+  <text x="425" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#CBD5E1" text-anchor="middle">2019</text>
+  <circle cx="425" cy="132" r="6" fill="#64748B" stroke="#0F172A" stroke-width="3"/>
+  <text x="425" y="162" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Product work: APIs,</text>
+  <text x="425" y="178" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">databases, infrastructure.</text>
+  <text x="575" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#CBD5E1" text-anchor="middle">2022</text>
+  <circle cx="575" cy="132" r="6" fill="#64748B" stroke="#0F172A" stroke-width="3"/>
+  <text x="575" y="162" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Went all-in on Go.</text>
+  <text x="575" y="178" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Senior engineer.</text>
+  <text x="724" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#CBD5E1" text-anchor="middle">2024</text>
+  <circle cx="724" cy="132" r="6" fill="#64748B" stroke="#0F172A" stroke-width="3"/>
+  <text x="724" y="162" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Technical lead.</text>
+  <text x="724" y="178" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Architecture and teams.</text>
+  <text x="874" y="106" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#F8FAFC" text-anchor="middle">2026</text>
+  <circle cx="874" cy="132" r="11" fill="#38BDF8" fill-opacity="0.22"/>
+  <circle cx="874" cy="132" r="6" fill="#38BDF8" stroke="#0F172A" stroke-width="3"/>
+  <text x="874" y="162" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Leading a team.</text>
+  <text x="874" y="178" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">CKA certified, 91%.</text>
+</svg>

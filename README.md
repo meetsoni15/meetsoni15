@@ -17,13 +17,30 @@ gets written.
 
 <br>
 
+<img src="assets/journey.svg" alt="Timeline: 2017 first job in support engineering, 2018 in-house ERP, 2019 product work, 2022 all-in on Go, 2024 technical lead, 2026 leading a team and CKA certified" width="100%">
+
+<br>
+
+## Currently building
+
+**[trending-radar](https://github.com/meetsoni15/trending-radar)** — a radar for new GitHub repos
+that rebuilds itself every Monday from a GitHub Action. No manual curation: it queries the Search
+API for repos created in the last seven days across AI tooling, security, developer tools, and
+infrastructure, then rewrites its own README with the results. I got tired of finding good
+projects three months late.
+
 ## Projects
 
 <table>
 <tr>
-  <td width="200"><b><a href="https://github.com/meetsoni15/gitcinema">gitcinema</a></b></td>
+  <td width="200"><b><a href="https://github.com/meetsoni15/trending-radar">trending-radar</a></b></td>
+  <td>Self-updating list of new and trending GitHub repos, refreshed weekly by a GitHub Action</td>
+  <td width="150"><sub><code>Go</code> <code>Actions</code></sub></td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/meetsoni15/gitcinema">gitcinema</a></b></td>
   <td>Step through your git history like a movie — live file changes, author characters, and a timeline scrubber</td>
-  <td width="140"><sub><code>Go</code> <code>Bubble Tea</code></sub></td>
+  <td><sub><code>Go</code> <code>Bubble Tea</code></sub></td>
 </tr>
 <tr>
   <td><b><a href="https://github.com/meetsoni15/noisemap">noisemap</a></b></td>
@@ -41,9 +58,9 @@ gets written.
   <td><sub><code>Go</code> <code>Terraform</code></sub></td>
 </tr>
 <tr>
-  <td><b><a href="https://github.com/meetsoni15/go-grpc-microservices">go-grpc-microservices</a></b></td>
-  <td>gRPC service patterns and scaffolding</td>
-  <td><sub><code>Go</code> <code>gRPC</code></sub></td>
+  <td><b><a href="https://github.com/meetsoni15/Go-Web-Testify">Go-Web-Testify</a></b></td>
+  <td>Unit-testing patterns for Go web applications</td>
+  <td><sub><code>Go</code> <code>Testify</code></sub></td>
 </tr>
 <tr>
   <td><b><a href="https://github.com/meetsoni15/Dodge-the-Falling-Blocks">Dodge-the-Falling-Blocks</a></b></td>
@@ -54,7 +71,7 @@ gets written.
 
 <br>
 
-<img src="assets/stack.svg" alt="What I work with: Go, Kubernetes, Docker, Helm, Terraform, AWS, Linux, Nginx, PostgreSQL, MongoDB, Redis, MySQL, Prometheus, Grafana, Python, JavaScript" width="100%">
+<img src="assets/opensource.svg" alt="Open source: 18 public repositories, 222 commits, first push 2017, 81.8% Go" width="100%">
 
 <br>
 
@@ -68,7 +85,7 @@ Getting **tracing rolled out across every service**, so debugging stopped being 
 
 <br>
 
-<img src="assets/languages.svg" alt="Languages across public repositories: Go 81.8%, C++ 11.9%, Python 1.5%, HTML 1.2%, other 3.6%" width="100%">
+<img src="assets/stack.svg" alt="What I work with: Go, Kubernetes, Docker, Helm, Terraform, AWS, Linux, Nginx, PostgreSQL, MongoDB, Redis, MySQL, Prometheus, Grafana, Python, JavaScript" width="100%">
 
 <br>
 
