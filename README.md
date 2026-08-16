@@ -1,137 +1,89 @@
-<h1 align="center">Meet Soni</h1>
+<img src="assets/header.svg" alt="Meet Soni — Backend &amp; Platform Engineer" width="100%">
 
 <p align="center">
-  <b>Backend &amp; Platform Engineer</b><br>
-  <sub>Go · Kubernetes · Distributed Systems</sub>
+  <a href="https://meetsoni.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://meetsoni.me/blog"><b>Writing</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/meetsoni1511"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.credly.com/badges/8f8bd291-ef49-442d-9438-1a6b989b2fac"><b>CKA</b></a> &nbsp;·&nbsp;
+  <a href="mailto:meet@meetsoni.me"><b>Email</b></a>
 </p>
-
-<p align="center">
-  <a href="https://meetsoni.me"><img src="https://img.shields.io/badge/Portfolio-meetsoni.me-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://meetsoni.me/blog"><img src="https://img.shields.io/badge/Blog-8B5CF6?style=flat-square&logo=readdotcv&logoColor=white" alt="Blog"></a>
-  <a href="https://www.linkedin.com/in/meetsoni1511"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
-  <a href="https://www.credly.com/badges/8f8bd291-ef49-442d-9438-1a6b989b2fac"><img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"></a>
-  <a href="mailto:meet@meetsoni.me"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <sub>
-    <b>8+</b> years &nbsp;•&nbsp;
-    <b>75</b> services migrated to Go &nbsp;•&nbsp;
-    <b>100M+</b> records searched &nbsp;•&nbsp;
-    <b>91%</b> CKA score &nbsp;•&nbsp;
-    <b>~6</b> engineers led
-  </sub>
-</p>
-
----
-
-I build backend systems that have to stay up — Go services, Kubernetes infrastructure, and
-data pipelines that fail loudly instead of quietly. Currently splitting my time between
-writing systems and leading the engineers who write them.
 
 <br>
 
-## 🧩 &nbsp;What I do
-
-| | |
-|:--|:--|
-| **Backend &amp; Distributed Systems** | Go services that hold up under load · queue-driven pipelines · retry frameworks &amp; concurrency control · gRPC · contract-first REST APIs |
-| **Search &amp; Data at Scale** | Search across 100M+ records · dynamic PostgreSQL functions · vector search with metadata handling · caching for high-throughput APIs · load testing |
-| **Cloud Native &amp; Operations** | Kubernetes administration · Helm · Terraform · distributed tracing with Jaeger · Prometheus &amp; Grafana · CI/CD · automated migrations |
-| **Engineering Leadership** | Leading teams of ~6 · architecture decisions across products · release management · mentoring &amp; interviewing · incident RCA |
+I write Go — mostly backend services and the infrastructure they run on, plus the occasional
+terminal tool for a problem I got tired of having. Certified Kubernetes Administrator. These
+days I lead a small team, which means I write less code and think harder about the code that
+gets written.
 
 <br>
 
-## 🛠️ &nbsp;Projects
-
-| Project | | Stack |
-|:--|:--|:--|
-| [**gitcinema**](https://github.com/meetsoni15/gitcinema) | Step through git history like a movie — live file changes, author characters, timeline scrubber | `Go` `Bubble Tea` |
-| [**noisemap**](https://github.com/meetsoni15/noisemap) | Terminal codebase risk heatmap, ranked by cyclomatic complexity × git churn | `Go` `AST` |
-| [**Vault-API-Filecoin**](https://github.com/meetsoni15/Vault-API-Filecoin) | HTTP API serving unlockable content from an immutable Filecoin-backed store | `Go` `Filecoin` |
-| [**go-lambda-scraper**](https://github.com/meetsoni15/go-lambda-scraper) | Rotating-IP scraping infrastructure on multi-region AWS Lambda | `Go` `Terraform` `AWS` |
-| [**go-grpc-microservices**](https://github.com/meetsoni15/go-grpc-microservices) | gRPC microservice patterns and service scaffolding | `Go` `gRPC` |
-| [**Dodge-the-Falling-Blocks**](https://github.com/meetsoni15/Dodge-the-Falling-Blocks) | Arcade game — because not everything needs a business case | `Go` `Raylib` |
-
-<br>
-
-## ⚡ &nbsp;Tech
+## Projects
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-</td>
+  <td width="200"><b><a href="https://github.com/meetsoni15/gitcinema">gitcinema</a></b></td>
+  <td>Step through your git history like a movie — live file changes, author characters, and a timeline scrubber</td>
+  <td width="140"><sub><code>Go</code> <code>Bubble Tea</code></sub></td>
 </tr>
 <tr>
-<td><b>Cloud&nbsp;Native</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&labelColor=232F3E&color=FF9900" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</td>
+  <td><b><a href="https://github.com/meetsoni15/noisemap">noisemap</a></b></td>
+  <td>Finds your codebase's riskiest files by combining cyclomatic complexity with git churn, then draws the heatmap in your terminal</td>
+  <td><sub><code>Go</code> <code>AST</code></sub></td>
 </tr>
 <tr>
-<td><b>Observability</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square&logo=jaeger&logoColor=white" alt="Jaeger">
-</td>
+  <td><b><a href="https://github.com/meetsoni15/Vault-API-Filecoin">Vault-API-Filecoin</a></b></td>
+  <td>HTTP API serving unlockable content out of an immutable Filecoin-backed store</td>
+  <td><sub><code>Go</code> <code>Filecoin</code></sub></td>
 </tr>
 <tr>
-<td><b>Data&nbsp;&amp;&nbsp;APIs</b></td>
-<td>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white" alt="gRPC">
-</td>
+  <td><b><a href="https://github.com/meetsoni15/go-lambda-scraper">go-lambda-scraper</a></b></td>
+  <td>Rotating-IP scraping infrastructure spread across multi-region AWS Lambda</td>
+  <td><sub><code>Go</code> <code>Terraform</code></sub></td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</td>
+  <td><b><a href="https://github.com/meetsoni15/go-grpc-microservices">go-grpc-microservices</a></b></td>
+  <td>gRPC service patterns and scaffolding</td>
+  <td><sub><code>Go</code> <code>gRPC</code></sub></td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/meetsoni15/Dodge-the-Falling-Blocks">Dodge-the-Falling-Blocks</a></b></td>
+  <td>An arcade game, because not everything needs a business case</td>
+  <td><sub><code>Go</code> <code>Raylib</code></sub></td>
 </tr>
 </table>
 
 <br>
 
-## ✍️ &nbsp;Writing
-
-| | |
-|:--|:--|
-| [Go Internals: The Runtime Deep Dive Most Developers Miss](https://meetsoni.me/blog/go-internals-runtime-deep-dive) | M-P-G scheduler, escape analysis, GC tuning |
-| [Advanced Go Concurrency Patterns](https://meetsoni.me/blog/go-concurrency-patterns-advanced) | Worker pools, fan-in / fan-out, select |
-| [noisemap — Visualize Your Codebase's Riskiest Files](https://meetsoni.me/blog/noisemap-codebase-risk-heatmap) | Complexity × churn as a risk signal |
-| [Dependency Injection in Go](https://meetsoni.me/blog/go-dependency-injection-patterns) | Interfaces, constructors, when not to |
-| [Go's `defer` Keyword](https://meetsoni.me/blog/go-defer-keyword-deep-dive) | LIFO ordering and argument evaluation |
-
-<sub>→ [All posts](https://meetsoni.me/blog)</sub>
+<img src="assets/stack.svg" alt="What I work with: Go, Kubernetes, Docker, Helm, Terraform, AWS, Linux, Nginx, PostgreSQL, MongoDB, Redis, MySQL, Prometheus, Grafana, Python, JavaScript" width="100%">
 
 <br>
 
-<div align="center">
+## Work I'm proud of
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=meetsoni15&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0EA5E9&icon_color=0EA5E9&bg_color=00000000" alt="GitHub stats">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetsoni15&layout=compact&hide_border=true&langs_count=8&title_color=0EA5E9&bg_color=00000000" alt="Top languages">
+Consolidating **75 Python microservices into one Go monorepo** driven by a single config file.
+Building **search across hundreds of millions of records**, with PostgreSQL functions that take
+new query shapes without a redeploy. Replacing synchronous job execution with **queue-driven
+pipelines** that retry properly and say when they're degrading — instead of after they're down.
+Getting **tracing rolled out across every service**, so debugging stopped being archaeology.
 
-</div>
+<br>
+
+<img src="assets/languages.svg" alt="Languages across public repositories: Go 81.8%, C++ 11.9%, Python 1.5%, HTML 1.2%, other 3.6%" width="100%">
+
+<br>
+
+## Writing
+
+- [**Go Internals: The Runtime Deep Dive Most Developers Miss**](https://meetsoni.me/blog/go-internals-runtime-deep-dive) — the M-P-G scheduler, escape analysis, and GC tuning
+- [**Advanced Go Concurrency Patterns**](https://meetsoni.me/blog/go-concurrency-patterns-advanced) — worker pools, fan-in/fan-out, and how not to leak goroutines
+- [**noisemap — Visualize Your Codebase's Riskiest Files**](https://meetsoni.me/blog/noisemap-codebase-risk-heatmap) — why complexity × churn predicts where bugs live
+- [**Dependency Injection in Go**](https://meetsoni.me/blog/go-dependency-injection-patterns) — interfaces, constructors, and when not to bother
+- [**Go's `defer` Keyword**](https://meetsoni.me/blog/go-defer-keyword-deep-dive) — LIFO ordering and the argument-evaluation gotcha
+
+<br>
 
 ---
 
 <p align="center">
-  <sub>Happy to talk Go, Kubernetes, or platform architecture — <a href="mailto:meet@meetsoni.me">say hello</a>.</sub>
+  <sub>Always up for a conversation about Go, Kubernetes, or platform architecture — <a href="mailto:meet@meetsoni.me">meet@meetsoni.me</a></sub>
 </p>
